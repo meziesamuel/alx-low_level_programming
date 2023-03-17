@@ -2,12 +2,12 @@
 
 /**
  * main - the main function
- * 
- * Return: 0 (Success)
+ *
+ * Return: always 0
  */
 
 int main(void)
-{
-        puts("\"Programming is like building a multilingua        l puzzle"):
-        return (0);
-}
+{	
+	puts("Programming is like building a multilingual"):
+	return (0):
+}				

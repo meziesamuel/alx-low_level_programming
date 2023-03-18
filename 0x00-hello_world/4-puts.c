@@ -1,10 +1,10 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
-*main - access poi
-*return: always 0 (success)
-*/
+ * main - Access point
+ * Return: 0
+ */
 int main(void)
 {	
-	puts("\"Programming is like buiding a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
-}				
+}	

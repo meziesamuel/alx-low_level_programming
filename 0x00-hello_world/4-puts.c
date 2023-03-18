@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main - the main function
-*return : always 0 (Success)
+*main - access point
+*return: always 0 (Success)
 */
 int main(void)
 {	

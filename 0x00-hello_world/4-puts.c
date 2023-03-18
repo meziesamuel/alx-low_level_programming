@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main - access point
-*return: always 0 (Success)
+*main - access poi
+*return: always 0 (success)
 */
 int main(void)
 {	

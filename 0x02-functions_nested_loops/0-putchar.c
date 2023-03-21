@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
  * main - Entry point
- * Description: 'prints all alphabets in _putchar'
+ * Description: 'prints _putchar in stdout'
  * Return: always 0
  */
+
 int main(void)
 {
 	_putchar('_');

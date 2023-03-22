@@ -2,7 +2,6 @@
 
 /**
  * print_last_digit - prints last digit of n
- * if n < 0
  *
  * @n: the number n
  *

@@ -14,7 +14,7 @@ int print_last_digit(int n)
 	int d;
 
 	d = n % 10;
-	if (n < o)
+	if (n < 0)
 		d = -n;
 	return (d);
 }
